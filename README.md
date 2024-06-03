@@ -1,2 +1,4 @@
-# BossMonsterII
-This repository contains the starter file for the Boss Monster II project. 
+# Boss Monster II
+
+## Objective
+Complete the Boss Monster II game with more monsters and the player gets to choose their name. 
